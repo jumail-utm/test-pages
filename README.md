@@ -3,6 +3,7 @@
 ```sql
 examples/code/query.sql
 ```
+### *examples/code/query.sql*
 ```sql
 SELECT role FROM user
  WHERE country = 'JHR'
