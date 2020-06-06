@@ -1,5 +1,13 @@
 ## Getting started with test pages
 
+```sql
+examples/code/query.sql
+```
+```sql
+SELECT role FROM user
+ WHERE country = 'JHR'
+```
+
 {% capture code %}
  SELECT role FROM user
  WHERE country = 'JHR'
