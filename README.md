@@ -20,11 +20,5 @@ SELECT role FROM user
 
 [Hi World](/hello.md)
 
-
-
-[Page in .page folder](/.pages/hello.md)
-[Page in .page folder](.pages/hello.md)
-
-[/pages](/pges/hello.md)
-[pages](pages/hello.md)
+[Introduction](_pages/intro.md)
 
