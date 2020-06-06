@@ -1,7 +1,7 @@
 ## Getting started with test pages
 
 {% capture code %}
- SELECT name,role FROM user
+ SELECT role FROM user
  WHERE country = 'JH'
 {% endcapture %}
 
