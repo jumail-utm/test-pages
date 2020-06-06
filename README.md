@@ -3,9 +3,9 @@
 ```sql
 examples/code/query.sql
 ```
-#### examples/code/query.sql
+**examples/code/query.sql**
 ```sql
--- examples/code/query.sql
+-- File: examples/code/query.sql
 
 SELECT role FROM user
  WHERE country = 'JHR'
