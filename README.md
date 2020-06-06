@@ -7,5 +7,5 @@
 
 {% include code.html code=code lang="sql" %}
 
-[Hello World](/hello.md)
+[Hi World](/hello.md)
 
