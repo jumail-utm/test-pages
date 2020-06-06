@@ -22,3 +22,5 @@ SELECT role FROM user
 
 [Introduction](_pages/intro.md)
 
+[Introduction](pages/intro.md)
+
