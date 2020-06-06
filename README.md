@@ -2,7 +2,7 @@
 
 {% capture code %}
  SELECT role FROM user
- WHERE country = 'JH'
+ WHERE country = 'JHR'
 {% endcapture %}
 
 {% include code.html code=code lang="sql" file="code/examples/query.sql" %}
