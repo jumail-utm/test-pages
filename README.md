@@ -23,4 +23,8 @@ SELECT role FROM user
 
 
 [Page in .page folder](/.pages/hello.md)
+[Page in .page folder](.pages/hello.md)
+
+[/pages](/pges/hello.md)
+[pages](pages/hello.md)
 
